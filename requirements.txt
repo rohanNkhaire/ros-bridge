@@ -5,5 +5,5 @@ pylint
 transforms3d
 pygame
 pexpect
-simple-pid
+simple-pid==1.0.1
 networkx
