@@ -8,3 +8,4 @@ pexpect
 simple-pid==1.0.1
 networkx
 numpy==1.23.1
+carla

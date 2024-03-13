@@ -29,6 +29,7 @@
   <exec_depend>pcl_conversions</exec_depend>
   <exec_depend>sensor_msgs</exec_depend>
   <exec_depend>carla_ros_bridge</exec_depend>
+  <depend>tf2_eigen</depend>
   
   <export>
     <build_type condition="$ROS_VERSION == 1">catkin</build_type>
